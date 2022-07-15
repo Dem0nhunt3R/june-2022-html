@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.widgets {
+    height: 200px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 30px;
+    margin: 0;
+}
+
+.box {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.box > div {
+    margin: 0;
+    height: 200px;
+    width: 32%;
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts{
+    height: 400px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
