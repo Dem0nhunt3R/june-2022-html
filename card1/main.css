@@ -1,0 +1,63 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+
+.card {
+    min-height: 300px;
+    width: 200px;
+    border: 1px solid gray;
+}
+
+.icon-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    bottom: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    color: gold;
+    background-color: white;
+}
+
+h3{
+    text-align: center;
+    margin-top: 0;
+}
+
+p{
+    text-align: justify;
+    margin: 20px;
+    color: silver;
+}
+
+.button-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.button{
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
