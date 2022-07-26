@@ -1,0 +1,25 @@
+.sil{
+    background: silver;
+}
+
+.h20{
+    height: 20px;
+}
+.h30{
+    height: 30px;
+}
+.h40{
+    height: 40px;
+}
+
+.h45{
+    height: 45px;
+}
+
+.h100{
+    height: 100px;
+}
+
+.br{
+    border: 2px solid black;
+}
